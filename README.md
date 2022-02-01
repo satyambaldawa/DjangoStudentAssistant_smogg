@@ -1,0 +1,2 @@
+# DjangoStudentAssistant_smogg
+Student assistant
